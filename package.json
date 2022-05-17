@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "https://Zhantoroev.github.io/demo-react",
+  "homepage": "http://Zhantoroev.github.io/demo-react",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
